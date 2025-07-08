@@ -1,19 +1,21 @@
 # Gold Price Prediction using Machine Learning
 
-This project demonstrates an end-to-end machine learning workflow to predict gold prices based on historical and market data. It covers data preprocessing, exploratory data analysis, model building, and evaluation.
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![Project Banner](images/banner.png)
 
 ---
 
 ## Project Objective
-Develop a regression model to forecast gold prices, helping understand key factors influencing price changes.
+Build a regression model to predict gold prices using historical data and economic indicators.  
+This includes data cleaning, exploratory data analysis (EDA), feature engineering, and model evaluation.
 
 ---
 
 ## Dataset
-- Historical gold price data along with relevant economic indicators
-- File location: `data/gold_price.csv`
-
-*(Replace with your actual dataset name and description)*
+- Historical gold price data and related features.
+- Location: `data/gold_price.csv`
 
 ---
 
@@ -26,10 +28,16 @@ Develop a regression model to forecast gold prices, helping understand key facto
 
 ---
 
+## Model Performance
+- **Best RMSE achieved:** 23.12
+- **Algorithm used:** RandomForestRegressor
+
+---
+
 ## How to Run
-Clone the repository and install required packages:
+Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/gold-price-prediction.git
+git clone https://github.com/yasharthrana/gold-price-prediction.git
 cd gold-price-prediction
 pip install -r requirements.txt
