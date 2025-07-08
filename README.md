@@ -1,6 +1,7 @@
 # Gold Price Prediction using Machine Learning
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![Project Banner](images/banner.png)
 
 ---
 
