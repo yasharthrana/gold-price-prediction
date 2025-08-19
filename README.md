@@ -12,7 +12,7 @@ This includes data cleaning, exploratory data analysis (EDA), feature engineerin
 ---
 
 ## Dataset
-- Historical gold price data and related features.
+- Historical gold price data and related feature.
 - Location: `data/gold_price.csv`
 
 ---
