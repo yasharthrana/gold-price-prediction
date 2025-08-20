@@ -5,7 +5,7 @@
 
 ---
 
-## Project Objective
+## Project Objectiv
 Build a regression model to predict gold prices using historical data and economic indicators.  
 This includes data cleaning, exploratory data analysis (EDA), feature engineering, and model evaluation.
 
